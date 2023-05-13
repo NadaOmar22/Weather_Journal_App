@@ -50,7 +50,7 @@ const retrieveData = async () => {
     document.getElementById('date').innerHTML = 'Date: ' + data.date;
     document.getElementById('temp').innerHTML = 'Temperature: ' + Math.round(data.temp) + ' degrees';
     document.getElementById('content').innerHTML = 'User response: ' + data.content;
-	  document.getElementById('entryHolder').style.visibility = "visible";
+    document.getElementById('entryHolder').style.visibility = "visible";
   }
   catch (error) {
     console.log("error", error);
