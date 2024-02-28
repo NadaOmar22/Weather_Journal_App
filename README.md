@@ -58,3 +58,7 @@
     10: Dynamically Update UI
         Sets the properties of existing HTML elements from the DOM using Vanilla JavaScript.
         Included in the async function to retrieve that app’s data on the client side, existing DOM elements should have their innerHTML properties dynamically set according to data returned by the app route.
+
+
+
+![weather](https://github.com/NadaOmar22/Weather_Journal_App/assets/75037231/0697b9de-b2ae-487e-8621-2b44b7f38e70)
